@@ -10,6 +10,8 @@
             "includePath": [
                 "/home/sarbjeetsingh/github/Projects/Hukam_projects/TankLevel_AS5600/include",
                 "/home/sarbjeetsingh/github/Projects/Hukam_projects/TankLevel_AS5600/src",
+                "/home/sarbjeetsingh/github/Projects/Hukam_projects/TankLevel_AS5600/lib/Seeed_Arduino_AS5600-master/src",
+                "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -200,7 +202,6 @@
                 "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include",
                 "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                 "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/variants/esp32",
-                "/home/sarbjeetsingh/github/Projects/Hukam_projects/TankLevel_AS5600/lib/Seeed_Arduino_AS5600-master/src",
                 "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                 "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                 "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
@@ -233,7 +234,6 @@
                 "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                 "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
-                "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                 ""
             ],
             "browse": {
@@ -241,6 +241,8 @@
                 "path": [
                     "/home/sarbjeetsingh/github/Projects/Hukam_projects/TankLevel_AS5600/include",
                     "/home/sarbjeetsingh/github/Projects/Hukam_projects/TankLevel_AS5600/src",
+                    "/home/sarbjeetsingh/github/Projects/Hukam_projects/TankLevel_AS5600/lib/Seeed_Arduino_AS5600-master/src",
+                    "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -431,7 +433,6 @@
                     "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include",
                     "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                     "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/variants/esp32",
-                    "/home/sarbjeetsingh/github/Projects/Hukam_projects/TankLevel_AS5600/lib/Seeed_Arduino_AS5600-master/src",
                     "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                     "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                     "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
@@ -464,7 +465,6 @@
                     "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src",
                     "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src",
-                    "/home/sarbjeetsingh/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
                     ""
                 ]
             },
